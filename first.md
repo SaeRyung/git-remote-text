@@ -5,3 +5,4 @@
 * 안녕하세요
 * 반갑습니다
 * feature/cart가 첫번째 파일 수정, 충돌
+* feature/mypage 가 첫번쩨 파일을 수정함
